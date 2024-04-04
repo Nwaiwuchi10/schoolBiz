@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://ourworldschool1:ourworldschool1@cluster0.zsjkddi.mongodb.net/SchoolBiz?readPreference=primary&w=majority&retryWrites=true&tls=true",
+  "bartersecret": "barter_secret"
+}
