@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1bd0cdd9.css",
+    "main.js": "/static/js/main.369ef519.js",
+    "static/js/787.d4aba7ab.chunk.js": "/static/js/787.d4aba7ab.chunk.js",
+    "static/media/light.jpg": "/static/media/light.42004cbd08b155da9535.jpg",
+    "static/media/mast.jpg": "/static/media/mast.c0db7465efc779a8349c.jpg",
+    "static/media/logo.png": "/static/media/logo.ad3726cc6c981dfb6254.png",
+    "static/media/world2.png": "/static/media/world2.03f96eff76b484d325f6.png",
+    "static/media/interior.jpg": "/static/media/interior.a209207e11ed8747f7d0.jpg",
+    "static/media/clock.png": "/static/media/clock.2e1f1ac38d431537366d.png",
+    "static/media/sketch.png": "/static/media/sketch.e3c01cdfd6ee63397807.png",
+    "static/media/wallpaper.jpg": "/static/media/wallpaper.f28cf1831de5f1526d20.jpg",
+    "static/media/popsc.jpg": "/static/media/popsc.4cad4a696f3cd6e8b13e.jpg",
+    "static/media/sales.jpg": "/static/media/sales.bebd75e55c783171c04c.jpg",
+    "static/media/whatsapp.png": "/static/media/whatsapp.5e806df08586442851c3.png",
+    "static/media/kitchen.jpg": "/static/media/kitchen.b5d6ea2a392c4488f44e.jpg",
+    "static/media/execute-removebg-preview.png": "/static/media/execute-removebg-preview.4248d06258f4c830e21f.png",
+    "static/media/good-removebg-preview.png": "/static/media/good-removebg-preview.c7b1c4afae6147fbed43.png",
+    "static/media/cautin.jpg": "/static/media/cautin.02253ff6da7ff1f063be.jpg",
+    "static/media/Blind 1.jpg": "/static/media/Blind 1.b97ffb3cfc3e6a438a52.jpg",
+    "static/media/modern.jpg": "/static/media/modern.a3db84091abe3b9eae48.jpg",
+    "static/media/furniture.jpg": "/static/media/furniture.607b4995f00d1cb2646c.jpg",
+    "static/media/carpetsfloor.jpg": "/static/media/carpetsfloor.ddd379c9fa43417640dd.jpg",
+    "static/media/close.jpg": "/static/media/close.8842ebc94d0434efa1cd.jpg",
+    "index.html": "/index.html",
+    "main.1bd0cdd9.css.map": "/static/css/main.1bd0cdd9.css.map",
+    "main.369ef519.js.map": "/static/js/main.369ef519.js.map",
+    "787.d4aba7ab.chunk.js.map": "/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bd0cdd9.css",
+    "static/js/main.369ef519.js"
+  ]
+}
