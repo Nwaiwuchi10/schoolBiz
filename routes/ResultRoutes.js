@@ -23,7 +23,6 @@ router.post("/", async (req, res) => {
       term,
       classes,
       user,
-      schoolName: schoolId,
     });
 
     if (ResultAlreadyExits) {
